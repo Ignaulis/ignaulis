@@ -9,10 +9,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:ignas.naulis@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ignas-naulis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignas-naulis" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01c9ac47fb1c3e96d3" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="upwork" height="30" width="40" /></a>
+  <a href="mailto:ignas.naulis@gmail.com" target="blank">
+    <span style="background-color: white; padding: 5px; border-radius: 8px; display: inline-block;">
+      <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="30" width="40" />
+    </span>
+  </a>
+  <a href="https://linkedin.com/in/ignas-naulis" target="blank">
+    <span style="background-color: white; padding: 5px; border-radius: 8px; display: inline-block;">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignas-naulis" height="30" width="40" />
+    </span>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01c9ac47fb1c3e96d3" target="blank">
+    <span style="background-color: white; padding: 5px; border-radius: 8px; display: inline-block;">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="upwork" height="30" width="40" />
+    </span>
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
