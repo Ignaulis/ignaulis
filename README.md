@@ -1,6 +1,5 @@
 <h2 align="center">Ignas Naulis | Web Developer</h2>
 
----
 
 <p align="center">
   My Portfolio<br />
