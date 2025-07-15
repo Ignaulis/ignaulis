@@ -1,20 +1,16 @@
-<h1 align="center">Hi there! 👋</h1>
-<h2 align="center">I'm Ignas, a passionate Web Developer</h2>
+<h2 align="center">Ignas | Web Developer</h2>
 
 <p align="center">
-  👨‍💻 All of my projects are available at<br />
+  My Portfolio<br />
   <a href="https://www.ignas-naulis.dev/" target="_blank">www.ignas-naulis.dev</a>
 </p>
 
 <p align="center">
-  📫 Reach me at: <strong>ignas.naulis@gmail.com</strong><br />
-  📄 CV: 
-  <a href="https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf" target="_blank">View CV</a>
+  Reach me at: <a href="mailto:ignas.naulis@gmail.com" target="_blank"><strong>ignas.naulis@gmail.com</strong></a><br />
+  <a href="https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf" target="_blank">View My CV</a>
 </p>
 
----
-
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="mailto:ignas.naulis@gmail.com" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" width="40" height="40"/>
