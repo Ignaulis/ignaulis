@@ -1,4 +1,6 @@
-<h2 align="center">Ignas | Web Developer</h2>
+<h2 align="center">Ignas Naulis | Web Developer</h2>
+
+---
 
 <p align="center">
   My Portfolio<br />
@@ -6,9 +8,14 @@
 </p>
 
 <p align="center">
-  Reach me at: <a href="mailto:ignas.naulis@gmail.com" target="_blank"><strong>ignas.naulis@gmail.com</strong></a><br />
+  Reach me at:<br />
+  <a href="mailto:ignas.naulis@gmail.com" target="_blank"><strong>ignas.naulis@gmail.com</strong></a>
+</p>
+
+<p align="center">
   <a href="https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf" target="_blank">View My CV</a>
 </p>
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
