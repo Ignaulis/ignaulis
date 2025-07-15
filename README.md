@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h2 align="center">I'm Ignas – a passionate Web Developer</h2>
+<h2 align="center">I'm Ignas, a passionate Web Developer</h2>
 
 <p align="center">
   👨‍💻 All of my projects are available at<br />
@@ -8,8 +8,8 @@
 
 <p align="center">
   📫 Reach me at: <strong>ignas.naulis@gmail.com</strong><br />
-  📄 View my CV: 
-  <a href="https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf" target="_blank">Download CV</a>
+  📄 CV: 
+  <a href="https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf" target="_blank">View CV</a>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 <p align="center">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
