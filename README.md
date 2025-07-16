@@ -1,12 +1,10 @@
-# 👋 Hi there, my name is Ignas Naulis. I'm from Lithuania, and I'm a freelance web developer.
+## Hey! I’m a freelance web developer based in Lithuania.
 
 🎯 **Portfolio:** [www.ignas-naulis.dev](https://www.ignas-naulis.dev)  
 📫 **Email:** [ignas.naulis@gmail.com](mailto:ignas.naulis@gmail.com)  
 📄 **My Resume:** [View My CV](https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf)
 
----
-
-## 🌐 Connect with me
+🌐 **Connect with me**
 
 <a href="mailto:ignas.naulis@gmail.com" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="30" height="30" />
@@ -20,10 +18,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="Upwork" width="30" height="30" />
 </a>
 
-
----
-
-## 🛠️ Languages & Tools
+🛠️ **Languages & Tools**
 
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /></a>
 &nbsp;
