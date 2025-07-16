@@ -4,14 +4,14 @@
 <p align="center">
   My Portfolio<br />
   <a href="https://www.ignas-naulis.dev/" target="_blank">www.ignas-naulis.dev</a>
-</p>
 
-<p align="center">
-  Reach me at:<br />
+
+
+  Reach me at<br />
   <a href="mailto:ignas.naulis@gmail.com" target="_blank"><strong>ignas.naulis@gmail.com</strong></a>
-</p>
 
-<p align="center">
+
+  My resume<br />
   <a href="https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf" target="_blank">View My CV</a>
 </p>
 
