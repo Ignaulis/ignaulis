@@ -45,9 +45,9 @@
 
   <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png" alt="Next.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://images.seeklogo.com/logo-png/33/1/express-js-logo-png_seeklogo-339850.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/512/express-js.png" alt="Express.js" width="40" height="40"/>
 
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
