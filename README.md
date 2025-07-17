@@ -1,4 +1,3 @@
-<h2 align="center">Hey! I’m a freelance web developer based in Lithuania.</h2>
 
 <p align="center">
   💼 <a href="https://www.ignas-naulis.dev">Portfolio</a> |
@@ -8,7 +7,17 @@
   💻 <a href="https://www.upwork.com/freelancers/~01c9ac47fb1c3e96d3">Upwork</a>
 </p>
 
+```javascript
+// 👋 Hello, world!
 
+const about_me = {
+  full_name: "Ignas Naulis",
+  role: "Web Developer",
+  nationality: "Lithuanian",
+  location: "Europe",
+};
+
+```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
