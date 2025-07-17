@@ -7,7 +7,7 @@
   🔗 <a href="https://linkedin.com/in/ignas-naulis">LinkedIn</a> |
   💻 <a href="https://www.upwork.com/freelancers/~01c9ac47fb1c3e96d3">Upwork</a>
 </p>
-
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
   &nbsp;
