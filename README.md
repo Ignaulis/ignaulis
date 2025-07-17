@@ -1,13 +1,10 @@
 ## Hey! I’m a freelance web developer based in Lithuania.
 
-🎯 **Portfolio:** [www.ignas-naulis.dev](https://www.ignas-naulis.dev)  
+💼 **Portfolio:** [ignas-naulis.dev](https://www.ignas-naulis.dev)  
 📫 **Email:** [ignas.naulis@gmail.com](mailto:ignas.naulis@gmail.com)  
-📄 **My Resume:** [View My CV](https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf)
-
-🌐 **Connect with me** <a href="mailto:ignas.naulis@gmail.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="24" height="24" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/ignas-naulis" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24" height="24" /></a>&nbsp;&nbsp;<a href="https://www.upwork.com/freelancers/~01c9ac47fb1c3e96d3" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="Upwork" width="24" height="24" /></a>
-
-
-🛠️ **Languages & Tools**
+📄 **Resume:** [View My CV](https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf)
+🔗 **Linkedin:** [My profile](https://linkedin.com/in/ignas-naulis)
+💻 **Upwork:** [Hire me!](https://www.upwork.com/freelancers/~01c9ac47fb1c3e96d3)
 
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /></a>
 &nbsp;
