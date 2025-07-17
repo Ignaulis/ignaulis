@@ -1,10 +1,6 @@
 ## Hey! I’m a freelance web developer based in Lithuania.
 
-💼 **Portfolio:** [ignas-naulis.dev](https://www.ignas-naulis.dev)  
-📫 **Email:** [ignas.naulis@gmail.com](mailto:ignas.naulis@gmail.com)  
-📄 **Resume:** [View My CV](https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf) 
-🔗 **Linkedin:** [My profile](https://linkedin.com/in/ignas-naulis) 
-💻 **Upwork:** [Hire me!](https://www.upwork.com/freelancers/~01c9ac47fb1c3e96d3) 
+💼 [Portfolio](https://www.ignas-naulis.dev) | 📫 [Email](mailto:ignas.naulis@gmail.com) | 📄 [Resume](https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf) | 🔗 [LinkedIn](https://linkedin.com/in/ignas-naulis) | 💻 [Upwork](https://www.upwork.com/freelancers/~01c9ac47fb1c3e96d3)
 
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /></a>
 &nbsp;
