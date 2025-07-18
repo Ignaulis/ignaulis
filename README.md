@@ -1,13 +1,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.ignas-naulis.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignas-naulis/) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c9ac47fb1c3e96d3) [![Resume](https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.ignas-naulis.dev/cv/ignas_naulis_cv.pdf) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignas.naulis@gmail.com)
 
-```python
-# 👋 Hello, world!
+```javascript
+// 👋 Hello, world!
 
-about_me = {
-  "full_name": "Ignas Naulis",
-  "role": "Web Developer",
-  "nationality": "Lithuanian",
-  "location": "Europe"
+const about_me = {
+  full_name: "Ignas Naulis",
+  role: "Web Developer",
+  nationality: "Lithuanian",
+  languages: ["LT", "EN"],
+  location: "Europe"
 }
 
 ```
