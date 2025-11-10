@@ -7,8 +7,11 @@ const about_me = {
   full_name: "Ignas Naulis",
   role: "Web Developer",
   nationality: "Lithuanian",
-  languages: ["LT", "EN"],
-  location: "Europe"
+  languages: [
+                "LT", 
+                "EN"
+              ],
+  exp: "2 years"
 }
 
 ```
