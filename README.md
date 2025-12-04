@@ -2,7 +2,7 @@
 // 👋 Hello, world!
 
 const about_me = {
-  full_name: "Ignas Naulis",
+  name: "Ignas",
   role: "Web Developer",
   nationality: "Lithuanian",
   languages: ["LT", "EN"]
